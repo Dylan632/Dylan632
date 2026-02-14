@@ -4,6 +4,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dylan632/Dylan632/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dylan632/Dylan632/output/github-contribution-grid-snake.svg">
 </picture>
+![trophy](https://github-profile-trophy.vercel.app/?username=Dylan632&theme=flat&no-frame=true&column=7)
+
 <!--
 **Dylan632/Dylan632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
