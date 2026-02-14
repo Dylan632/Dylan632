@@ -5,12 +5,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dylan632/Dylan632/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="400">
-  <br>
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="300">
-  <img src="./profile-summary-card-output/default/3-stats.svg" width="300">
-</div>
 
 
 <!--
