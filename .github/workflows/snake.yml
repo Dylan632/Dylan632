@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   # 每天自动运行一次（例如北京时间早上8点）
   schedule:
